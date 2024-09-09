@@ -1,0 +1,1 @@
+Programa copiado para hacer pruebas en ESP32CAM - Arduino IDE
